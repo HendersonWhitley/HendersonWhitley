@@ -1,9 +1,10 @@
 ## Whitley Henderson
-• Cybersecurity student focused on defensive security, ethical hacking, and hands-on lab experience.
-• Focus areas: blue team, intrusion detection, and ethical hacking
-• Currently building projects and practicing on HackTheBox, TryHackMe, and PortSwigger
-• Tools: Python, Linux, Git, Wireshark, Nmap (learning in progress)
-• Military veteran with 13 years of leadership, discipline, and operational experience
+Cybersecurity student focused on defensive security, ethical hacking, and hands-on lab experience.
+
+• Focus areas: Blue team, intrusion detection, ethical hacking  
+• Currently building projects and practicing on HackTheBox, TryHackMe, and PortSwigger  
+• Tools: Python, Linux, Git, Wireshark, Nmap (learning in progress)  
+• Military veteran with 13 years of leadership, discipline, and operational experience  
 • Contact: whitley.henderson@yahoo.com
 
 ### Projects
