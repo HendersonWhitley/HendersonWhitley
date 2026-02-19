@@ -1,5 +1,6 @@
 ## Whitley Henderson
-Cybersecurity student focused on defensive security, ethical hacking, and hands-on lab experience.
+Cybersecurity student building defensive security skills through hands-on labs, detection projects, and log analysis.
+
 
 • Focus areas: Blue team, intrusion detection, ethical hacking  
 • Currently building projects and practicing on HackTheBox, TryHackMe, and PortSwigger  
@@ -9,8 +10,8 @@ Cybersecurity student focused on defensive security, ethical hacking, and hands-
 
 ### Projects
 
-• Log Guardian  
-Python log analyzer detecting brute force attempts and suspicious activity  
+• Log Guardian
+Python log analyzer detecting brute force attempts, suspicious commands, and failed login patterns
 https://github.com/HendersonWhitley/log-guardian
 
 • Linux Recon Lab  
