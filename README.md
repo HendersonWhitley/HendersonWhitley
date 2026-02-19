@@ -8,10 +8,17 @@ Cybersecurity student focused on defensive security, ethical hacking, and hands-
 • Contact: whitley.henderson@yahoo.com
 
 ### Projects
-• Log Guardian — Python log analyzer detecting brute force attempts and suspicious activity
-• Linux Recon Lab — hands-on enumeration and system analysis practice
+
+• Log Guardian  
+Python log analyzer detecting brute force attempts and suspicious activity  
+https://github.com/HendersonWhitley/log-guardian
+
+• Linux Recon Lab  
+Hands-on enumeration and system analysis practice  
+https://github.com/HendersonWhitley/linux-recon-lab
 
 ### Currently Learning
-• CompTIA Security+ concepts
-• Detection engineering basics
-• SIEM fundamentals
+
+• CompTIA Security+ (SY0-701)  
+• Detection engineering fundamentals  
+• SIEM concepts and log analysis
