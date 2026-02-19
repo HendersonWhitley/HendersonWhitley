@@ -1,11 +1,16 @@
--  Hi, I’m @HendersonWhitley
--  I’m interested in technology, ethical hacking, pentesting, and of course, my little family.
--  I’m currently learning pentesting
--  I’m using HackTheBox, TryHackMe, and PortSwigger
--  How to reach me ... whitley.henderson@yahoo.com
--  Fun fact: I spent 13 years in the military. 
+## Whitley Henderson
+• Cybersecurity student focused on defensive security, ethical hacking, and hands-on lab experience.
+• Focus areas: blue team, intrusion detection, and ethical hacking
+• Currently building projects and practicing on HackTheBox, TryHackMe, and PortSwigger
+• Tools: Python, Linux, Git, Wireshark, Nmap (learning in progress)
+• Military veteran with 13 years of leadership, discipline, and operational experience
+• Contact: whitley.henderson@yahoo.com
 
-<!---
-HendersonWhitley/HendersonWhitley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Projects
+• Log Guardian — Python log analyzer detecting brute force attempts and suspicious activity
+• Linux Recon Lab — hands-on enumeration and system analysis practice
+
+### Currently Learning
+• CompTIA Security+ concepts
+• Detection engineering basics
+• SIEM fundamentals
